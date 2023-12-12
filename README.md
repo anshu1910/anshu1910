@@ -1,5 +1,6 @@
 # 💫 Hii, Myself Anshu Soni !!
-🌱 I’m currently learning Web Development using MERN stack<br>📫 How to reach me: anshu.soni.ece21@iitbhu.ac.in<br>😄 Pronouns: She/Her<br>⚡ Fun fact: -_-
+ A passionate 3rd-year B.Tech student majoring in Electronics and Communication Engineering at Indian Institute of Technology (BHU) Varanasi. 
+🌱 I’m currently learning Web Development using MERN stack<br>🌱 Know's About: Data Structures and Algorithms, Web Development, Image Processing <br>📫 How to reach me: anshu.soni.ece21@iitbhu.ac.in<br>😄 Pronouns: She/Her<br>⚡ Fun fact: -_-
 
 
 ## 🌐 Socials:
