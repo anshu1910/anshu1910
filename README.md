@@ -1,6 +1,6 @@
 ### Hi there 👋  <br>
 
-🌱 I’m currently learning Web Development <br>
+🌱 I’m currently learning Web Development using MERN stack<br>
  📫 How to reach me: anshu.soni.ece21@iitbhu.ac.in <br>
  😄 Pronouns: She/Her <br>
  ⚡ Fun fact: -_-  <br>
