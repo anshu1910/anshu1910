@@ -1,4 +1,4 @@
-# 💫 Hii, Myself Anshu Soni !!
+# 💫 Hii!!
  A passionate software engineer working at MNC with graduation majoring in Electronics and Communication Engineering at Indian Institute of Technology (BHU) Varanasi. <br>
 🌱 I’m currently learning Web Development using MERN stack<br>🌱 Know's About: Data Structures and Algorithms, Web Development, Image Processing <br>📫 How to reach me: anshu.soni.ece21@iitbhu.ac.in<br>😄 Pronouns: She/Her<br>⚡ Fun fact: -_-
 
